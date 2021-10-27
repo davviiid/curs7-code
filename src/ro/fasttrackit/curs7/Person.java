@@ -9,7 +9,7 @@ public class Person {
     public Person(int name, int age, int married) {
         System.out.println("Contruction Person");
         this.name ="David";
-        this.age = age % 20;
+        this.age = age % 89;
         this.married = married % 0;
     }
 
